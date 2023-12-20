@@ -1,6 +1,6 @@
 ﻿namespace Park
 {
-    public class Car:Vehicle
+    public class Vehicle
     {
 
     }

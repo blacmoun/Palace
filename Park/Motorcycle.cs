@@ -1,6 +1,6 @@
 ﻿namespace Park
 {
-    public class Motocycle
+    public class Motocycle : Vehicle
     {
 
     }
